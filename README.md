@@ -2,7 +2,7 @@
 
 **Low-level engineer focused on performance across the stack** — from systems internals up to the services on top. I like taking apart a problem to find where the real cost lives, then fixing it there.
 
-Currently building distributed systems in Rust and shipping full-stack products end to end, while finishing a dual BS in Computer Science and Electrical Engineering.
+Currently Finishing BS in CS at UCF
 
 ---
 
