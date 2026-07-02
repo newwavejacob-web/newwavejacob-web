@@ -62,7 +62,7 @@ Go/Gin + SQLite backend, React frontend, and OpenAI embeddings for semantic sear
 ## Reach me
 
 - **Email:** jakercyber1@gmail.com
-- **GitHub:** [@your-username](https://github.com/your-username)
+- **GitHub:** [@your-username](https://github.com/newwavejacob-web)
 
 ---
 
