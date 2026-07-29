@@ -1,5 +1,5 @@
 # Welcome, Friends and Strangers!
-Hi, My name is Jacob. Feel Free to Controbute to any repos and get in touch with me!
+Hi, My name is Jacob. Feel Free to Contribute to any repos and get in touch with me!
 
 ## Tech Stack
 
