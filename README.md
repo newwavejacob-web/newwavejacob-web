@@ -1,6 +1,16 @@
 # Welcome, Friends and Strangers!
 Hi, My name is Jacob. Feel Free to Contribute to any repos and get in touch with me!
+---
 
+## Projects
+
+### [HealthDB](https://github.com/newwavejacob-web/healthdb) — Distributed key-value store in Rust
+Raft consensus from the ground up: leader election, log replication, and a write-ahead log with CRC32 integrity checks, all over TLS. A hands-on study of how consistency and durability actually get built rather than assumed.
+
+### [What 2 Watch](https://what2watch.win) — Semantic movie recommendation engine
+Go/Gin + SQLite backend, React frontend, and OpenAI embeddings for semantic search. Deployed on DigitalOcean behind Cloudflare and hardened with session cookies, rate limiting, and HMAC-signed requests. ([source](https://github.com/your-username/what2watch))
+
+---
 ## Tech Stack
 
 **Languages**
@@ -41,22 +51,11 @@ Hi, My name is Jacob. Feel Free to Contribute to any repos and get in touch with
 
 ---
 
-## Projects
-
-### [HealthDB](https://github.com/newwavejacob-web/healthdb) — Distributed key-value store in Rust
-Raft consensus from the ground up: leader election, log replication, and a write-ahead log with CRC32 integrity checks, all over TLS. A hands-on study of how consistency and durability actually get built rather than assumed.
-
-### [What 2 Watch](https://what2watch.win) — Semantic movie recommendation engine
-Go/Gin + SQLite backend, React frontend, and OpenAI embeddings for semantic search. Deployed on DigitalOcean behind Cloudflare and hardened with session cookies, rate limiting, and HMAC-signed requests. ([source](https://github.com/your-username/what2watch))
-
----
-
 ## Reach me
 
 - **Email:** jakercyber1@gmail.com
 - **GitHub:** [@newwavejacob-web](https://github.com/newwavejacob-web)
 
----
 
 <!-- Optional: renders once you swap in your real username. Delete if you'd rather keep it minimal. -->
 
