@@ -1,10 +1,5 @@
-# Hi, I'm Jacob
-
-**Low-level engineer focused on performance across the stack** — from systems internals up to the services on top. I like taking apart a problem to find where the real cost lives, then fixing it there.
-
-Currently Finishing BS in CS at UCF
-
----
+# Welcome, Friends and Strangers!
+Hi, My name is Jacob. Feel Free to Controbute to any repos and get in touch with me!
 
 ## Tech Stack
 
