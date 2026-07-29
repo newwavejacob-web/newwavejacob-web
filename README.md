@@ -59,5 +59,4 @@ Go/Gin + SQLite backend, React frontend, and OpenAI embeddings for semantic sear
 ---
 
 <!-- Optional: renders once you swap in your real username. Delete if you'd rather keep it minimal. -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=newwavejacob-web&show_icons=true&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=newwavejacob-web&layout=compact&hide_border=true)
+
