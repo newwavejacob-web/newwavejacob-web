@@ -1,5 +1,4 @@
-# Welcome, Friends and Strangers!
-Hi, My name is Jacob. Feel Free to Contribute to any repos and get in touch with me!
+## You are who you pretend to be. -Kurt Vonnegut
 
 ## Projects
 
