@@ -1,4 +1,4 @@
-## You are who you pretend to be. -Kurt Vonnegut
+## You are who you pretend to be. 
 
 ## Projects
 
