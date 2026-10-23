@@ -1,4 +1,4 @@
-## [You are who you pretend to be.] (https://jacob.tranqy.org/)
+## [You are who you pretend to be.](https://jacob.tranqy.org/)
 
 ## Projects
 
